@@ -7,10 +7,13 @@ Esse projeto possui duas partes:
 - Cod_NodeMCU_fluviometro
 
 Abaixo estará algumas particularidades dos códigos:
+
 Para Cod_id_cor:
+
 Projeto para criação de inteligencia artificial para emitir alerta de enchentes e inundações, código em Python, elaborado no Pycharm.
 É importante ressaltar que para a execução desse projeto que imagens das mascaras estejam na pasta do arquivo para poder fazer a classificação.
 
 
 Cod_NodeMCU_fluviometro:
+
 Código ESP8266 (NodeMCU/ARDUÍNO) para Fluviômetro IOT do Sistema de alerta de Inundações.
