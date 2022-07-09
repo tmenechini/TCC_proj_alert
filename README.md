@@ -19,3 +19,11 @@ Projeto para criação de inteligencia artificial para emitir alerta de enchente
 Cod_NodeMCU_fluviometro.ino:
 
 Código ESP8266 (NodeMCU/ARDUÍNO) para Fluviômetro IOT do Sistema de alerta de Inundações.
+
+Para o React.js:
+
+Esse é o código do Frontend
+
+Para o Site_alerta.jsx
+
+Esse é o código do Backend
