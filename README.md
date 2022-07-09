@@ -2,9 +2,11 @@
 
 Parte integrante do sistema proposto pela turma 12, classe 04 - Curso Engenharia de Computação 2017/02 UNIVESP
 
-Esse projeto possui duas partes:
+Esse projeto possui quatro partes:
 - Cod_id_cor.py
 - Cod_NodeMCU_fluviometro.ino
+- React.js
+- Site_alerta.jsx
 
 Abaixo estará algumas particularidades dos códigos:
 
